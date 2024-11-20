@@ -5,7 +5,7 @@
 
 ## Editing content
 
-- Visit https://atomicdata.dev/01j9kkhn5h8h4rjmyk9hq0cwmj
+- Visit https://atomicdata.dev/01jd2g0fwq3nfmx3vpp2kgnz0w
 - Sign in with your provided secret (or ask joep@ontola.io for a new one)
 - Edits are published directly to the website
 
